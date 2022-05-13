@@ -23,4 +23,6 @@ int main()
 	}
 	
 	printf("content successfully copy :\n");
-	fclose()
+	fclose(fp);
+	return 0;
+}
